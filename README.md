@@ -14,6 +14,7 @@ Aplicação em Python que consulta informações de endereço a partir de um CEP
 ## 🛠️ Tecnologias
 - Python
 - Requests
+- pandas
 
 ## ▶️ Como executar
 
